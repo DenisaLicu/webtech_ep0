@@ -1,0 +1,42 @@
+.colorat { font-family: cursive ;
+          font-size: 25;
+          font-weight: bold;
+          font-style: normal;
+          color: red;
+}
+
+#culoare
+ {
+     
+     font-family: fantasy;
+     font-weight: normal;
+     font-style: italic;
+     font-size : 20;
+     color:green;
+ }
+ 
+ a:link {
+     color:green;
+ }
+ 
+ a:visited
+ {
+     color:purple;
+ }
+ 
+ a:hover
+ {
+     color:red;
+     font-size:30;
+ }
+ 
+ 
+ a:active
+ {color:yellow;
+ }
+ 
+ 
+ li:nth-child(even)
+ {background-color: yellow;
+     
+ }
